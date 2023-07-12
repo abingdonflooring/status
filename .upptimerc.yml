@@ -7,10 +7,6 @@ sites:
     url: https://portal.alliancefdl.co.uk/alliance/
   - name: Alliance API  
     url: http://109.239.83.34
-  - name: Microlise  SFTP  
-    check: "tcp-ping"
-    url: 109.239.83.40
-    port: 22
   - name: Customer Portal
     url: https://portal.abingdonflooring.co.uk/
   - name: VPN
@@ -24,7 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  # baseUrl: /status
+  baseUrl: /status
   logoUrl: https://www.abingdonflooring.co.uk/wp-content/uploads/xGroup-110.png.pagespeed.ic.hUVL0CdV38.png
   name: Abingdon Flooring Service Status
   introTitle: "Abingdon Flooring Service Status"
