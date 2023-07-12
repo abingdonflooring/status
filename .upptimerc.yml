@@ -33,3 +33,6 @@ status-website:
 
 i18n:
   footer: Please contact the helpdesk if you have issues
+
+status-website:
+  theme: light  
