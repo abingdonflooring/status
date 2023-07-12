@@ -31,7 +31,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+      
 i18n:
   footer: Please contact the helpdesk if you have issues
 
