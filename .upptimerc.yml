@@ -13,6 +13,8 @@ sites:
     port: 22
   - name: Customer Portal
     url: https://portal.abingdonflooring.co.uk/
+  - name: VPN
+    url: https://VPN.abingdonflooring.co.uk
   - name: Customer Warranty registration
     url: https://stainfreeforlife.com/
   - name: AFL Homepage
@@ -33,5 +35,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Please contact the helpdesk if you have issues
