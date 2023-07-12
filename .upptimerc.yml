@@ -6,7 +6,7 @@ sites:
   - name: Alliance Portal
     url: https://portal.alliancefdl.co.uk/alliance/
   - name: Alliance API  
-    url: http://109.239.83.34
+    url: $ALLAPI
   - name: Customer Portal
     url: https://portal.abingdonflooring.co.uk/
   - name: VPN
