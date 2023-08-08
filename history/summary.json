@@ -4,18 +4,20 @@
     "url": "https://portal.alliancefdl.co.uk/alliance/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.alliancefdl.co.uk.ico",
     "slug": "alliance-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 440,
-    "timeWeek": 485,
+    "timeDay": 611,
+    "timeWeek": 482,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 1
+    }
   },
   {
     "name": "Alliance API",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 199,
+    "time": 233,
+    "timeDay": 267,
     "timeWeek": 212,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -42,13 +44,13 @@
     "slug": "customer-portal",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 678,
-    "timeDay": 710,
-    "timeWeek": 724,
+    "timeDay": 699,
+    "timeWeek": 727,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -67,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
-    "timeDay": 534,
-    "timeWeek": 647,
+    "timeDay": 734,
+    "timeWeek": 650,
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {}
@@ -78,18 +80,20 @@
     "url": "https://stainfreeforlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stainfreeforlife.com.ico",
     "slug": "customer-warranty-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 460,
-    "timeWeek": 495,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {}
+    "time": 534,
+    "timeDay": 630,
+    "timeWeek": 496,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "AFL Homepage",
@@ -102,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2940,
-    "timeDay": 4007,
-    "timeWeek": 2998,
-    "timeMonth": 2940,
-    "timeYear": 2940,
+    "time": 2874,
+    "timeDay": 424,
+    "timeWeek": 2441,
+    "timeMonth": 2874,
+    "timeYear": 2874,
     "dailyMinutesDown": {}
   }
 ]
