@@ -4,19 +4,19 @@
     "url": "https://portal.alliancefdl.co.uk/alliance/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.alliancefdl.co.uk.ico",
     "slug": "alliance-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 611,
-    "timeWeek": 482,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 592,
+    "timeDay": 551,
+    "timeWeek": 483,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-08-08": 1
+      "2023-08-08": 17
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://stainfreeforlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stainfreeforlife.com.ico",
     "slug": "customer-warranty-registration",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 630,
-    "timeWeek": 496,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 532,
+    "timeDay": 536,
+    "timeWeek": 489,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 17
     }
   },
   {
