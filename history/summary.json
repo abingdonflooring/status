@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 600,
-    "timeDay": 812,
-    "timeWeek": 589,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 596,
+    "timeDay": 423,
+    "timeWeek": 582,
+    "timeMonth": 595,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2023-08-08": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 328,
-    "timeWeek": 261,
-    "timeMonth": 238,
+    "timeDay": 229,
+    "timeWeek": 266,
+    "timeMonth": 233,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 688,
-    "timeDay": 941,
-    "timeWeek": 825,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "time": 685,
+    "timeDay": 574,
+    "timeWeek": 824,
+    "timeMonth": 686,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2023-08-06": 27
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 1163,
-    "timeWeek": 784,
-    "timeMonth": 750,
-    "timeYear": 750,
+    "time": 745,
+    "timeDay": 536,
+    "timeWeek": 780,
+    "timeMonth": 742,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 544,
-    "timeDay": 758,
-    "timeWeek": 590,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "time": 542,
+    "timeDay": 453,
+    "timeWeek": 589,
+    "timeMonth": 535,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2023-08-08": 17
     }
@@ -100,17 +100,19 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2886,
-    "timeDay": 4438,
-    "timeWeek": 2615,
-    "timeMonth": 2886,
-    "timeYear": 2886,
-    "dailyMinutesDown": {}
+    "time": 2821,
+    "timeDay": 192,
+    "timeWeek": 2621,
+    "timeMonth": 3119,
+    "timeYear": 2821,
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   }
 ]
