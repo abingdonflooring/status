@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 596,
-    "timeDay": 423,
-    "timeWeek": 582,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 595,
+    "timeDay": 582,
+    "timeWeek": 580,
+    "timeMonth": 597,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-08-08": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 229,
-    "timeWeek": 266,
-    "timeMonth": 232,
+    "timeDay": 261,
+    "timeWeek": 267,
+    "timeMonth": 229,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 685,
-    "timeDay": 574,
-    "timeWeek": 824,
-    "timeMonth": 686,
-    "timeYear": 685,
+    "time": 687,
+    "timeDay": 735,
+    "timeWeek": 830,
+    "timeMonth": 691,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2023-08-06": 27
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
-    "timeDay": 536,
-    "timeWeek": 780,
-    "timeMonth": 686,
+    "timeDay": 753,
+    "timeWeek": 761,
+    "timeMonth": 676,
     "timeYear": 745,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 542,
-    "timeDay": 453,
-    "timeWeek": 589,
-    "timeMonth": 534,
-    "timeYear": 542,
+    "time": 544,
+    "timeDay": 612,
+    "timeWeek": 587,
+    "timeMonth": 529,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-08-08": 17
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2921,
-    "timeDay": 3400,
-    "timeWeek": 3151,
-    "timeMonth": 3187,
-    "timeYear": 2921,
+    "time": 2949,
+    "timeDay": 4734,
+    "timeWeek": 3103,
+    "timeMonth": 3084,
+    "timeYear": 2949,
     "dailyMinutesDown": {
       "2023-08-12": 18
     }
