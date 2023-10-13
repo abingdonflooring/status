@@ -6,16 +6,17 @@
     "slug": "alliance-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 627,
+    "time": 626,
     "timeDay": 405,
     "timeWeek": 579,
     "timeMonth": 631,
-    "timeYear": 627,
+    "timeYear": 626,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-08-08": 17
     }
   },
