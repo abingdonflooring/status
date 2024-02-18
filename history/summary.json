@@ -6,9 +6,9 @@
     "slug": "alliance-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 701,
     "timeDay": 715,
@@ -16,7 +16,6 @@
     "timeMonth": 731,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2024-02-18": 8,
       "2023-12-07": 15,
       "2023-08-08": 17
     }
@@ -28,18 +27,16 @@
     "slug": "alliance-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 332,
     "timeWeek": 388,
     "timeMonth": 309,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2024-02-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer Portal",
@@ -92,19 +89,19 @@
     "url": "https://stainfreeforlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stainfreeforlife.com.ico",
     "slug": "customer-warranty-registration",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 647,
-    "timeDay": 3177,
-    "timeWeek": 1249,
-    "timeMonth": 782,
-    "timeYear": 647,
+    "time": 648,
+    "timeDay": 2422,
+    "timeWeek": 1212,
+    "timeMonth": 786,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-02-18": 24,
+      "2024-02-18": 43,
       "2023-11-19": 24,
       "2023-08-28": 58,
       "2023-08-08": 17
