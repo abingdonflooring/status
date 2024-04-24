@@ -1,7 +1,7 @@
 url: https://portal.alliancefdl.co.uk/alliance/
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2024-04-23T23:13:45.258Z
+status: down
+code: 502
+responseTime: 2513
+lastUpdated: 2024-04-24T21:21:11.911Z
 startTime: 2023-07-12T09:48:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
