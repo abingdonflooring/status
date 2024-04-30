@@ -25,19 +25,19 @@
     "url": "$ALLAPI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alliance-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 238,
-    "timeWeek": 239,
-    "timeMonth": 256,
+    "timeDay": 222,
+    "timeWeek": 234,
+    "timeMonth": 254,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 6
     }
   },
   {
