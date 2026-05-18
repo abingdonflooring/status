@@ -29,10 +29,10 @@ sites:
     url: https://stainfreeforlife.com/
   - name: AFL Homepage
     url: https://www.abingdonflooring.co.uk
-  # TEMPORARY notification test monitor — points at a reserved .invalid TLD that
-  # can never resolve, so it is guaranteed "down". Remove after the test.
+  # TEMPORARY notification test monitor — flipped to a working URL to trigger a
+  # down->up recovery notification through the updated Teams webhook. Remove after test.
   - name: Notification Test
-    url: https://notification-test.invalid
+    url: https://www.abingdonflooring.co.uk
 
 status-website:
   theme: light  
