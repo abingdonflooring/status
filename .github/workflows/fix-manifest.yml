@@ -1,0 +1,40 @@
+# Standalone (NOT Upptime-managed) workflow.
+# Upptime's status-page build hardcodes manifest.json "start_url": "/", which
+# 404s because this site is served under /status/. This re-patches the deployed
+# manifest on the gh-pages branch after every site deploy so "Add to Home
+# Screen" / PWA launches land on /status/ instead of the domain root.
+name: Fix manifest start_url
+on:
+  workflow_run:
+    workflows: ["Static Site CI", "Setup CI"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  patch:
+    name: Patch gh-pages manifest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          token: ${{ secrets.GH_PAT || github.token }}
+      - name: Rewrite start_url and scope to /status/
+        run: |
+          test -f manifest.json || { echo "manifest.json not found on gh-pages"; exit 0; }
+          echo "Before:"; grep -E '"start_url"|"scope"' manifest.json || true
+          sed -i -E 's#"start_url"[[:space:]]*:[[:space:]]*"/"#"start_url": "/status/", "scope": "/status/"#' manifest.json
+          echo "After:"; grep -E '"start_url"|"scope"' manifest.json || true
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- manifest.json; then
+            echo "manifest.json already correct - nothing to do"
+            exit 0
+          fi
+          git config user.name "Upptime Bot"
+          git config user.email "73812536+upptime-bot@users.noreply.github.com"
+          git add manifest.json
+          git commit -m ":wrench: Fix manifest start_url -> /status/ [skip ci]"
+          git push origin gh-pages
