@@ -2,6 +2,13 @@
 owner: abingdonflooring # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+# Default assignee(s) for every incident issue. GitHub emails the assignee
+# automatically when an incident is opened/closed (the no-cost "email on down").
+# IMPORTANT: this must be a GitHub *username* with access to this repo,
+# NOT an email address and NOT the org name. Replace the placeholder below.
+assignees:
+  - REPLACE-WITH-YOUR-GITHUB-USERNAME
+
 sites:
   - name: Alliance Portal
     url: https://portal.alliancefdl.co.uk/alliance/
@@ -11,6 +18,15 @@ sites:
     url: https://portal.abingdonflooring.co.uk/
   - name: VPN
     url: https://VPN.abingdonflooring.co.uk
+    # VPN gateways rarely return a clean 200 to a plain GET (login portal redirect /
+    # auth challenge). Treat these as "up" so we don't get false outages like #216.
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 401
+      - 403
+    maxResponseTime: 10000
   - name: Customer Warranty registration
     url: https://stainfreeforlife.com/
   - name: AFL Homepage
