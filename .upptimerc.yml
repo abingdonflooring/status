@@ -4,10 +4,8 @@ repo: status # The name of this repository
 
 # Default assignee(s) for every incident issue. GitHub emails the assignee
 # automatically when an incident is opened/closed (the no-cost "email on down").
-# IMPORTANT: this must be a GitHub *username* with access to this repo,
-# NOT an email address and NOT the org name. Replace the placeholder below.
 assignees:
-  - REPLACE-WITH-YOUR-GITHUB-USERNAME
+  - abingdonflooring
 
 sites:
   - name: Alliance Portal
