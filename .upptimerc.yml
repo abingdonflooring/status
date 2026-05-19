@@ -10,14 +10,14 @@ assignees:
 sites:
   - name: Alliance Portal
     url: https://portal.alliancefdl.co.uk/alliance/
-  - name: Alliance API
-    url: $ALLAPI
-    # /wms (Alliance webservices, production) is Basic-auth protected; an
-    # unauthenticated request returns 401. A 401 proves the server is alive and
-    # enforcing auth, so treat it as "up". Down = no response / 5xx / refused.
-    expectedStatusCodes:
-      - 200
-      - 401
+  # DISABLED 2026-05-19: real API at /wms is IP-firewalled — unreachable from
+  # GitHub-hosted runners (code 0), so it always false-alerts "down". Re-enable
+  # only with a reachable endpoint or a self-hosted runner inside the network.
+  # - name: Alliance API
+  #   url: $ALLAPI
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
   - name: Customer Portal
     url: https://portal.abingdonflooring.co.uk/
   - name: VPN
