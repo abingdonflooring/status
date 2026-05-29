@@ -20,17 +20,21 @@ sites:
   #     - 401
   - name: Customer Portal
     url: https://portal.abingdonflooring.co.uk/
-  - name: VPN
-    url: https://VPN.abingdonflooring.co.uk
-    # VPN gateways rarely return a clean 200 to a plain GET (login portal redirect /
-    # auth challenge). Treat these as "up" so we don't get false outages like #216.
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-      - 401
-      - 403
-    maxResponseTime: 10000
+  # DISABLED 2026-05-29: VPN gateway was changed and we don't yet have a reliable
+  # endpoint that signals whether the new gateway is up or down, so the monitor
+  # only produces false outages. Re-enable once we know a URL/status code that
+  # cleanly reflects the new VPN's health.
+  # - name: VPN
+  #   url: https://VPN.abingdonflooring.co.uk
+  #   # VPN gateways rarely return a clean 200 to a plain GET (login portal redirect /
+  #   # auth challenge). Treat these as "up" so we don't get false outages like #216.
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 301
+  #     - 302
+  #     - 401
+  #     - 403
+  #   maxResponseTime: 10000
   - name: Customer Warranty registration
     url: https://stainfreeforlife.com/
   - name: AFL Homepage
