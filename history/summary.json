@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 805,
-    "timeWeek": 827,
+    "timeDay": 990,
+    "timeWeek": 840,
     "timeMonth": 939,
     "timeYear": 939,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
-    "timeDay": 1096,
-    "timeWeek": 954,
+    "timeDay": 1243,
+    "timeWeek": 943,
     "timeMonth": 938,
     "timeYear": 938,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 685,
-    "timeDay": 681,
-    "timeWeek": 638,
+    "timeDay": 605,
+    "timeWeek": 653,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {}
@@ -60,13 +60,13 @@
     "slug": "afl-homepage",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "71.97%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "72.80%",
+    "uptimeWeek": "91.64%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "99.77%",
     "time": 1981,
-    "timeDay": 989,
-    "timeWeek": 956,
+    "timeDay": 997,
+    "timeWeek": 958,
     "timeMonth": 970,
     "timeYear": 970,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
       "2026-05-31": 74,
       "2026-06-02": 98,
       "2026-06-03": 242,
-      "2026-06-04": 405
+      "2026-06-04": 393
     }
   }
 ]
