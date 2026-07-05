@@ -40,18 +40,20 @@
     "url": "https://stainfreeforlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stainfreeforlife.com.ico",
     "slug": "customer-warranty-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 657,
-    "timeWeek": 777,
-    "timeMonth": 772,
-    "timeYear": 815,
-    "dailyMinutesDown": {}
+    "time": 699,
+    "timeDay": 2639,
+    "timeWeek": 1257,
+    "timeMonth": 900,
+    "timeYear": 881,
+    "dailyMinutesDown": {
+      "2026-07-05": 0
+    }
   },
   {
     "name": "AFL Homepage",
@@ -61,7 +63,7 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "89.45%",
-    "uptimeWeek": "87.27%",
+    "uptimeWeek": "87.97%",
     "uptimeMonth": "87.67%",
     "uptimeYear": "98.80%",
     "time": 1411,
