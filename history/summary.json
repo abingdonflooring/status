@@ -60,16 +60,16 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "98.82%",
-    "time": 1359,
-    "timeDay": 850,
-    "timeWeek": 824,
-    "timeMonth": 847,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "87.90%",
+    "uptimeYear": "98.81%",
+    "time": 1352,
+    "timeDay": 820,
+    "timeWeek": 818,
+    "timeMonth": 846,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2026-06-03": 161,
@@ -105,7 +105,7 @@
       "2026-07-07": 34,
       "2026-07-06": 4,
       "2026-07-08": 53,
-      "2026-07-09": 82
+      "2026-07-09": 116
     }
   }
 ]
