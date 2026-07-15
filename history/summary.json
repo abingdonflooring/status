@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 3988,
-    "timeWeek": 1601,
-    "timeMonth": 998,
-    "timeYear": 1000,
+    "time": 746,
+    "timeDay": 796,
+    "timeWeek": 1606,
+    "timeMonth": 999,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 1000,
-    "timeWeek": 1001,
-    "timeMonth": 1049,
-    "timeYear": 1035,
+    "time": 852,
+    "timeDay": 832,
+    "timeWeek": 987,
+    "timeMonth": 951,
+    "timeYear": 1032,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
-    "time": 710,
-    "timeDay": 911,
-    "timeWeek": 779,
-    "timeMonth": 874,
-    "timeYear": 865,
+    "time": 712,
+    "timeDay": 760,
+    "timeWeek": 803,
+    "timeMonth": 878,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2026-07-05": 131
     }
@@ -60,19 +60,19 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "98.37%",
     "uptimeWeek": "95.56%",
-    "uptimeMonth": "91.09%",
-    "uptimeYear": "98.88%",
-    "time": 1500,
-    "timeDay": 812,
-    "timeWeek": 763,
-    "timeMonth": 803,
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "98.89%",
+    "time": 1486,
+    "timeDay": 729,
+    "timeWeek": 783,
+    "timeMonth": 807,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2026-06-07": 107,
+      "2026-06-07": 73,
       "2026-06-08": 175,
       "2026-06-10": 229,
       "2026-06-11": 312,
@@ -107,7 +107,8 @@
       "2026-07-11": 82,
       "2026-07-12": 106,
       "2026-07-13": 19,
-      "2026-07-14": 23
+      "2026-07-14": 23,
+      "2026-07-15": 0
     }
   }
 ]
