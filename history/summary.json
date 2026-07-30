@@ -62,9 +62,9 @@
     "slug": "afl-homepage",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "91.72%",
-    "uptimeMonth": "93.09%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.09%",
     "time": 1407,
     "timeDay": 699,
@@ -111,7 +111,7 @@
       "2026-07-27": 326,
       "2026-07-28": 115,
       "2026-07-29": 54,
-      "2026-07-30": 0
+      "2026-07-30": 37
     }
   }
 ]
