@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 818,
-    "timeWeek": 734,
-    "timeMonth": 898,
-    "timeYear": 951,
+    "time": 776,
+    "timeDay": 699,
+    "timeWeek": 730,
+    "timeMonth": 908,
+    "timeYear": 948,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 1209,
-    "timeWeek": 1071,
-    "timeMonth": 1014,
-    "timeYear": 1042,
+    "timeDay": 603,
+    "timeWeek": 1012,
+    "timeMonth": 1019,
+    "timeYear": 1037,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 725,
-    "timeDay": 655,
-    "timeWeek": 736,
-    "timeMonth": 692,
-    "timeYear": 820,
+    "time": 726,
+    "timeDay": 638,
+    "timeWeek": 724,
+    "timeMonth": 700,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2026-07-05": 131
     }
@@ -60,19 +60,19 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "99.10%",
-    "time": 1370,
-    "timeDay": 791,
-    "timeWeek": 1103,
-    "timeMonth": 915,
+    "uptimeMonth": "95.44%",
+    "uptimeYear": "99.11%",
+    "time": 1366,
+    "timeDay": 866,
+    "timeWeek": 1050,
+    "timeMonth": 920,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2026-06-21": 108,
+      "2026-06-21": 64,
       "2026-06-22": 57,
       "2026-06-23": 357,
       "2026-06-24": 188,
@@ -112,7 +112,8 @@
       "2026-07-28": 115,
       "2026-07-29": 54,
       "2026-07-30": 73,
-      "2026-07-31": 44
+      "2026-07-31": 44,
+      "2026-08-10": 0
     }
   }
 ]
