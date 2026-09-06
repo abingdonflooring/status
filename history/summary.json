@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 609,
-    "timeWeek": 767,
-    "timeMonth": 801,
-    "timeYear": 919,
+    "timeDay": 622,
+    "timeWeek": 771,
+    "timeMonth": 796,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 870,
-    "timeDay": 1038,
-    "timeWeek": 981,
-    "timeMonth": 863,
-    "timeYear": 987,
+    "timeDay": 789,
+    "timeWeek": 994,
+    "timeMonth": 857,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 704,
-    "timeDay": 666,
-    "timeWeek": 733,
-    "timeMonth": 623,
-    "timeYear": 776,
+    "timeDay": 674,
+    "timeWeek": 741,
+    "timeMonth": 621,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2026-07-05": 131
     }
@@ -62,18 +62,18 @@
     "slug": "afl-homepage",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.10%",
-    "time": 1210,
-    "timeDay": 822,
-    "timeWeek": 861,
-    "timeMonth": 964,
-    "timeYear": 896,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.09%",
+    "time": 1206,
+    "timeDay": 838,
+    "timeWeek": 871,
+    "timeMonth": 959,
+    "timeYear": 897,
     "dailyMinutesDown": {
+      "2026-06-23": 31,
       "2026-06-24": 188,
-      "2026-06-23": 5,
       "2026-06-25": 135,
       "2026-06-26": 80,
       "2026-06-27": 195,
@@ -116,8 +116,7 @@
       "2026-08-22": 18,
       "2026-08-27": 418,
       "2026-08-30": 17,
-      "2026-09-01": 20,
-      "2026-09-05": 6
+      "2026-09-01": 20
     }
   }
 ]
