@@ -42,9 +42,9 @@
     "slug": "customer-warranty-registration",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 707,
     "timeDay": 966,
@@ -53,7 +53,7 @@
     "timeYear": 774,
     "dailyMinutesDown": {
       "2026-07-05": 131,
-      "2026-09-12": 7
+      "2026-09-12": 16
     }
   },
   {
@@ -61,17 +61,17 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.10%",
-    "time": 1326,
-    "timeDay": 1418,
-    "timeWeek": 1175,
-    "timeMonth": 1028,
-    "timeYear": 914,
+    "time": 1327,
+    "timeDay": 1346,
+    "timeWeek": 1172,
+    "timeMonth": 1029,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2026-06-24": 158,
       "2026-06-25": 135,
@@ -118,7 +118,7 @@
       "2026-08-30": 17,
       "2026-09-01": 20,
       "2026-09-10": 21,
-      "2026-09-12": 0
+      "2026-09-12": 10
     }
   }
 ]
