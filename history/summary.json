@@ -4,18 +4,20 @@
     "url": "https://portal.alliancefdl.co.uk/alliance/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.alliancefdl.co.uk.ico",
     "slug": "alliance-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 623,
-    "timeWeek": 588,
-    "timeMonth": 681,
-    "timeYear": 875,
-    "dailyMinutesDown": {}
+    "time": 883,
+    "timeDay": 21483,
+    "timeWeek": 5808,
+    "timeMonth": 1983,
+    "timeYear": 1165,
+    "dailyMinutesDown": {
+      "2026-09-29": 0
+    }
   },
   {
     "name": "Customer Portal",
@@ -68,9 +70,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.15%",
     "time": 1205,
-    "timeDay": 1076,
+    "timeDay": 1386,
     "timeWeek": 1108,
-    "timeMonth": 998,
+    "timeMonth": 999,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2026-06-27": 163,
