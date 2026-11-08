@@ -44,21 +44,21 @@
     "url": "https://stainfreeforlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stainfreeforlife.com.ico",
     "slug": "customer-warranty-registration",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 703,
-    "timeDay": 2677,
-    "timeWeek": 1100,
-    "timeMonth": 720,
-    "timeYear": 743,
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 704,
+    "timeDay": 2072,
+    "timeWeek": 1073,
+    "timeMonth": 724,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2026-07-05": 131,
       "2026-09-12": 250,
-      "2026-11-08": 0
+      "2026-11-08": 37
     }
   },
   {
