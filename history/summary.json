@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1017,
-    "timeDay": 620,
-    "timeWeek": 505,
+    "timeDay": 623,
+    "timeWeek": 541,
     "timeMonth": 542,
-    "timeYear": 1233,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2026-09-29": 97
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 749,
-    "timeWeek": 667,
-    "timeMonth": 692,
-    "timeYear": 899,
+    "time": 841,
+    "timeDay": 737,
+    "timeWeek": 682,
+    "timeMonth": 689,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2026-10-05": 34
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 703,
-    "timeDay": 651,
-    "timeWeek": 514,
-    "timeMonth": 674,
-    "timeYear": 732,
+    "timeDay": 637,
+    "timeWeek": 549,
+    "timeMonth": 675,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2026-07-05": 131,
       "2026-09-12": 250,
@@ -66,17 +66,17 @@
     "url": "https://www.abingdonflooring.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.abingdonflooring.co.uk.ico",
     "slug": "afl-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.16%",
-    "time": 1238,
-    "timeDay": 836,
-    "timeWeek": 1085,
-    "timeMonth": 1261,
-    "timeYear": 947,
+    "time": 1234,
+    "timeDay": 567,
+    "timeWeek": 1020,
+    "timeMonth": 1233,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2026-06-27": 50,
       "2026-06-28": 298,
@@ -128,7 +128,7 @@
       "2026-09-27": 17,
       "2026-10-04": 27,
       "2026-10-25": 26,
-      "2026-11-18": 6
+      "2026-11-18": 0
     }
   }
 ]
